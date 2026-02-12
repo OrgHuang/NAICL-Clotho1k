@@ -186,23 +186,6 @@ python evaluation.py
 python calculate.py
 ```
 
-You can then compare:
-
-- Baseline hallucination rate
-- NIC hallucination rate
-- Type-wise hallucination reductions
-
-------
-
-# Output
-
-The final outputs include:
-
-- Overall Hallucination Rate (HR)
-- Distribution of hallucination types
-- Semantic commitment analysis
-- Structured evaluation logs
-
 ------
 
 # Notes
