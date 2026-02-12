@@ -7,7 +7,7 @@
  Qixuan Huang
 
  Khalid Zaman
- 
+
  Masashi Unoki
 
  Graduate School of Advanced Science and Technology
@@ -30,6 +30,31 @@ You can use this repository in two ways:
 2. **Apply our NIC method for hallucination mitigation**
 
 ------
+
+# Dataset Preparation
+
+Before running any experiments, you must download the **Clotho development dataset**.
+
+Download from:
+
+https://zenodo.org/records/3490684
+
+After downloading, place the `development` split audio files into:
+
+```
+data/clotho/
+```
+
+The directory structure should look like:
+
+```
+data/
+ └── clotho/
+      ├── audio_1.wav
+      ├── audio_2.wav
+      ├── ...
+```
+
 
 ## Step 1 — Install Requirements
 
