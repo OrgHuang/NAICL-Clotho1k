@@ -3,10 +3,15 @@
 ## Hallucination Evaluation and Mitigation for Large Audio-Language Models
 
 **Authors**
+
  Qixuan Huang
+
  Khalid Zaman
+ 
  Masashi Unoki
+
  Graduate School of Advanced Science and Technology
+
  Japan Advanced Institute of Science and Technology (JAIST)
 
 ------
