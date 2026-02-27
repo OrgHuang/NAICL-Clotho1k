@@ -12,7 +12,7 @@ This repository provides:
 
 - A hallucination benchmark for audio captioning (Clotho-1K)
 - A hallucination evaluation pipeline
-- A Noise-aware In-Context Learning (NIC) mitigation method
+- A Noise-aware In-Context Learning (NAICL) mitigation method
 
 You can use this repository in two ways:
 
