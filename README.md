@@ -1,18 +1,8 @@
-# Noise-Aware In-Context Learning (NIC)
+# Noise-Aware In-Context Learning (NAICL)
 
 ## Hallucination Evaluation and Mitigation for Large Audio-Language Models
 
-**Authors**
 
- Qixuan Huang
-
- Khalid Zaman
-
- Masashi Unoki
-
- Graduate School of Advanced Science and Technology
-
- Japan Advanced Institute of Science and Technology (JAIST)
 
 ------
 
@@ -144,9 +134,9 @@ This will produce:
 
 ------
 
-# Part II — Apply the NIC Method
+# Part II — Apply the NAICL Method
 
-If you would like to reproduce our **Noise-aware In-Context Learning (NIC)** method, additional preparation is required.
+If you would like to reproduce our **Noise-aware In-Context Learning (NAICL)** method, additional preparation is required.
 
 ------
 
