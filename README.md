@@ -178,7 +178,3 @@ python calculate.py
 
 ------
 
-# Notes
-
-- NIC is a training-free, inference-time mitigation method.
-- All evaluation metrics follow the definitions described in the associated paper.
